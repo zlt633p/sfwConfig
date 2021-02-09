@@ -1,0 +1,5 @@
+firefox:
+  versionMin: 47
+  versionMax: 78
+Chrome:
+  device: ['Tablet', 'Desktop', 'Mobile']
